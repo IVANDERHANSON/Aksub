@@ -18,7 +18,7 @@ class BukuSeeder extends Seeder
             'author' => "J.K. Rowling",
             'publicationYear' => now(),
             'totalPage' => 200,
-            'image' => now(),
+            'image' => "https://upload.wikimedia.org/wikipedia/id/b/bf/Harry_Potter_and_the_Sorcerer%27s_Stone.jpg",
             'created_at' => now(),
             'updated_at' => now(),
         ]);
